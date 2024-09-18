@@ -1,6 +1,6 @@
 # Olá! Meu nome é Jean Carlos
 
-Estudante de Análise e Desenvolvimento de Sistemas e iniciante na jornada dev, estou focado em aprender as linguagens e tecnologias que amo:
+Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Desenvolvimento Full Stack, estou focado em aprender as linguagens e tecnologias que amo:
 
 <p>
   <img src="https://github.com/jeansillva/jeansillva/assets/111095599/d5ae9d34-78a8-457d-8ce0-64ccedfd6699" alt="Java" width="80" height="40">
