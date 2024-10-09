@@ -9,7 +9,7 @@ Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Desenvolvi
   <img src="https://github.com/jeansillva/jeansillva/assets/111095599/700ca774-065d-4969-b4c1-290bc04d4693" alt="GIF" align="right" width="240" height="200">
 </p>
 
-No futuro, pretendo me aprofundar em: 
+Atualmente me encontro focado em:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" height="40">
