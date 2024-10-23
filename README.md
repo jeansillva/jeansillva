@@ -1,4 +1,4 @@
-# Olá! Meu nome é Jean Carlos
+# Olá! Meu nome é Jean
 
 Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Desenvolvimento Full Stack, estou focado em aprender as linguagens e tecnologias que amo:
 
