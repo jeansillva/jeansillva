@@ -1,27 +1,33 @@
-# Olá! Meu nome é Jean
 
-Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Desenvolvimento Full Stack, estou focado em aprender as linguagens e tecnologias que amo:
+# 👋 Olá, meu nome é Jean!
 
-<p>
-  <img src="https://github.com/jeansillva/jeansillva/assets/111095599/d5ae9d34-78a8-457d-8ce0-64ccedfd6699" alt="Java" width="80" height="30">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" width="90" height="30">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="100" height="30">
-  <img src="https://github.com/jeansillva/jeansillva/assets/111095599/700ca774-065d-4969-b4c1-290bc04d4693" alt="GIF" align="right" width="240" height="200">
-</p>
+🎓 **Formado em** Análise e Desenvolvimento de Sistemas, e atualmente **pós-graduando** em Desenvolvimento Full Stack. Sou focado em tecnologia e estou em busca de aprender e ter contato com desafios que novos projetos podem proporcionar.
 
-Atualmente me encontro focado em:
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="90" height="40">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="90" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100" height="40">
-</p>
+## 🚀 Tecnologias:
+<div>
+ <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java ☕">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</div>
 
-<h2>Workspace Specs:</h2>
+---
 
-<p>
-  <img src="https://github.com/jeansillva/jeansillva/assets/111095599/cab41d81-1e03-4345-85e1-22f9a1f49467" alt="AMD Ryzen 5 5600X" width="80" height="80">
-  <img src="https://github.com/jeansillva/jeansillva/assets/111095599/f9b371c4-adae-44f6-9512-99fc19676013" alt="NVIDIA GeForce RTX 3060" width="80" height="80">
-</p>
+## 🖥️ Minhas Specs:
+<div>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600x-%23ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 5 5600x">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-%2376B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RTX 3060">
+</div>
 
+---
 
+## 📫 Vamos nos conectar?
+- **[LinkedIn](https://www.linkedin.com/in/jeansillva/)**
+
+🛠️ **“O homem ainda é o computador mais extraordinário de todos."  - John F. Kennedy**
